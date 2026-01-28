@@ -1,0 +1,5 @@
+---- Wed Jan 28 23:50:05 UTC 2026 process_images.sh ----
+Input dir : data/images
+Resize to : 300X300
+Installing ImageMagick (convert)...
+Processing microscope_1.png
